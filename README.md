@@ -3,7 +3,7 @@ A DAO is an organizational structure that is governed by a set of predefined rul
 The purpose of a DAO VM would be to provide a dedicated blockchain runtime environment specifically designed for creating, deploying, and managing DAOs. This VM would include built-in functionalities and primitives tailored for DAO operations, making it easier to develop and interact with decentralized organizations.
 Here are some key features and components that a DAO VM could include:
 
-Through Hyper-SDK, the custom VM i s built and the subnet was possible on Fuji Testnet and ran a node.
+Through Hyper-SDK, the custom VM was built and the subnet was possible on Fuji Testnet and ran a node.
 
 VM ID: tGBrMADESojmu5Et9CpbGCrmVf9fiAJtZM5ZJ3YVDj5JTu2qw
 VM version: v0.6.5 
